@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Code for: From current–voltage curves to calibrated degradation posteriors: physics-based amortised neural inference for label-free photovoltaic diagnosis"
+version: "v1.0.0"
+doi: "10.5281/zenodo.24569068"
+date-released: "2026-11-26"
+license: MIT
+repository-code: "https://github.com/khaledmohamad99/pv-iv-npe"
+abstract: "Code, trained networks and reproduction scripts accompanying the manuscript on amortised simulation-based inference (neural posterior estimation) for label-free diagnosis of photovoltaic cell degradation from current–voltage curves."
+keywords:
+  - photovoltaics
+  - current-voltage curves
+  - simulation-based inference
+  - neural posterior estimation
+  - degradation diagnosis
+  - normalizing flows
+authors:
+  - family-names: "Abdel Aziz"
+    given-names: "Khaled Mohamad"
+    affiliation: "Faculty of Artificial Intelligence, Delta University for Science and Technology, Gamasa 35712, Dakahlia, Egypt"
+  - family-names: "Medhat"
+    given-names: "T."
+    affiliation: "Department of Machine Learning and Information Retrieval, Faculty of Artificial Intelligence, Kafrelsheikh University, Kafrelsheikh 33516, Egypt"
+  - family-names: "Shams"
+    given-names: "Mahmoud Y."
+    affiliation: "Department of Machine Learning and Information Retrieval, Faculty of Artificial Intelligence, Kafrelsheikh University, Kafrelsheikh 33516, Egypt"
+  - family-names: "Elseddik"
+    given-names: "Marwa"
+    affiliation: "Department of Robotics and Intelligent Machines, Faculty of Artificial Intelligence, Kafrelsheikh University, Kafrelsheikh 33516, Egypt"
